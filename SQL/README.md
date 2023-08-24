@@ -1,7 +1,7 @@
 # Анализ рынка венчурных фондов и инвестиций в компании-стартапы
 
 ## База данных
-![bd](https://github.com/Lima82/Data_analyst_projects/blob/02637d04843ceffe28d0538b4c287128a376f325/sql_border2880_1628581406.png)
+![bd](https://github.com/Lima82/Data_analyst_projects/blob/02637d04843ceffe28d0538b4c287128a376f325/sql_data.png)
 
 - таблица acquisition cодержит информацию о покупках одних компаний другими
 - таблица company cодержит информацию о компаниях-стартапах
