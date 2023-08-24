@@ -18,4 +18,4 @@
 https://public.tableau.com/app/profile/marina.orlenko/viz/TableauMulti-partProject2/sheet26?publish=yes
 
 ## Используемые BI-инструменты
-*python, sql, tableau public*
+*python, numpy, sqlalchemy, sql, tableau public*
