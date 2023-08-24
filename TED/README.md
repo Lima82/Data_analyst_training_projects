@@ -30,5 +30,9 @@
 
 С помощью Tableau Public изучить историю и тематику TED-выступлений, их авторов, построить дашборды и создать презентацию.
 
+## Выводы
+
+https://public.tableau.com/app/profile/marina.orlenko/viz/TableauProject1_Conference/sheet22?publish=yes
+
 ## Используемые BI-инструменты
 *tableau public*
