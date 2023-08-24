@@ -34,5 +34,6 @@
 
 https://public.tableau.com/app/profile/marina.orlenko/viz/TableauProject1_Conference/sheet22?publish=yes
 
-## Используемые BI-инструменты
-*tableau public*
+## Технические навыки
+
+*Tableau public*
