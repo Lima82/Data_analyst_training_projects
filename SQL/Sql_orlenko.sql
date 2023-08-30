@@ -1,6 +1,6 @@
 Задача 1
   
-SELECT COUNT(status)
+SELECT *
 FROM company
 WHERE status='closed';
 
