@@ -1,7 +1,7 @@
 # Анализ данных сервиса вопросов и ответов о программировании StackOverflow 
 
 ## База данных
-![bd](https://github.com/Lima82/Data_analyst_projects/blob/Practicum/SQL_advances/sql_advanced_data.png)
+![bd](https://github.com/Lima82/Data_analyst_projects/blob/Practicum/SQL_advanced/sql_advanced_data.png)
 
 - таблица badges хранит информацию о значках, которые присуждаются за разные достижения
 - таблица post_types содержит информацию о типе постов
