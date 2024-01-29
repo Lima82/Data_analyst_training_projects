@@ -43,4 +43,4 @@
 - Помесячная выручка от пользователей с подпиской по месяцам выше, чем помесячная выручка пользователей без подписки.
 
 ## Технические навыки
-*Python, Os, Numpy, Scipy, Math, Matplotlib, Seaborn, Datetime*
+*Python, Pandas, Os, Numpy, Scipy, Math, Matplotlib, Seaborn, Datetime*
