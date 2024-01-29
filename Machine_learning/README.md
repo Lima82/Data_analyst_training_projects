@@ -35,4 +35,4 @@
  - предложить бонусную систему за регулярные посещения фитнес-центра, чтобы накопленные бонусы можно было потратиь на что-то полезное. Это может увеличить лайфтайм и тем самым уменьшить отток.
    
 ## Технические навыки
-*Python, Os, Numpy, Scipy, Matplotlib, Seaborn, IPython, Sklearn, Scipy, Itertools, Warnings.*
+*Python, Pandas, Os, Numpy, Scipy, Matplotlib, Seaborn, IPython, Sklearn, Scipy, Itertools, Warnings.*
