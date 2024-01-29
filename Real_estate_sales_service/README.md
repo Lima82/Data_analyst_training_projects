@@ -45,4 +45,4 @@
 
 ## Технические навыки
 
-*Pandas, Matplotlib, Seaborn*
+*Python, Pandas, Matplotlib, Seaborn*
