@@ -32,4 +32,4 @@
 - Слишком большие затраты на рекламные каналы TipTop и FaceBoom, соответственно, пользователи, пришедшие оттуда не окупились. Удержание пользователей из этих каналов плюс из канала AdNonSense также низкое.
 
 ## Технические навыки
-*Python, Numpy, Matplotlib, Seaborn, Datetime*
+*Python, Pandas, Numpy, Matplotlib, Seaborn, Datetime*
